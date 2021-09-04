@@ -8,6 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=maikotrindade&label=Profile%20views&color=0e75b6&style=flat" alt="Maiko-Trindade" /> 
 
 
- <span> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=maikotrindade&show_icons=true&count_private=true&theme=dracula&hide=prs,issues,contribs" width="350"></a> </span>
-<span>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikotrindade&theme=dracula&hide=java,css,html,ruby,makefile,objective-c) </span>
+<span> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=maikotrindade&show_icons=true&count_private=true&theme=dracula&hide=prs,issues,contribs" width="350"></a> </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikotrindade&theme=dracula&hide=java,css,html,ruby,makefile,objective-c) </span>
 
