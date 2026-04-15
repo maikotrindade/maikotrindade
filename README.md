@@ -1,11 +1,18 @@
 ##### Hi there, I'm Maiko Trindade 👋
 
-🔭 I’m software engineer interested in Android, Jetpack Compose, Blockchain, Artificial Intelligence, ESG, Decentralized finance, Education, Startup, Climate Change, DeFi, Linux, Fintech, Typescript, Solidity, ReactJS, Investments and better UX for web3 apps.
+🔭 Software Engineer focused on building high-quality mobile and web experiences.
+
+Mobile & Frontend: Android (Kotlin, Jetpack Compose), React Native, KMP/CMP, ReactJS, TypeScript
+Emerging Tech: AI & AI Agents, Blockchain, DeFi, Web3 UX
+Engineering Practices: Accessibility, Testing Automation, scalable architectures
+Domains & Interests: Fintech, ESG, Climate Tech, Startups, Education, Investments, Linux
+
+💡 I also share insights, projects, and ideas at → https://maikotrindade.com/
 
 <a href="https://www.linkedin.com/in/maikotrindade/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://maikotrindade.com/">![image](https://img.shields.io/badge/website-383838?style=for-the-badge)</a>
 <img src="https://komarev.com/ghpvc/?username=maikotrindade&label=Profile%20views&color=0e75b6&style=flat" alt="Maiko-Trindade" /> 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maikotrindade&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://maikotrindade.com"><img src="https://streak-stats.demolab.com?user=maikotrindade&theme=holi-theme&hide_border=true&card_width=560" alt="GitHub Streak" /></a>
 </p>
