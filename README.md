@@ -11,8 +11,6 @@ Domains & Interests: Fintech, ESG, Climate Tech, Startups, Education, Investment
 
 <a href="https://www.linkedin.com/in/maikotrindade/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://maikotrindade.com/">![image](https://img.shields.io/badge/website-383838?style=for-the-badge)</a>
-<img src="https://komarev.com/ghpvc/?username=maikotrindade&label=Profile%20views&color=0e75b6&style=flat" alt="Maiko-Trindade" /> 
+<img src="https://komarev.com/ghpvc/?username=maikotrindade&label=Profile%20views&color=0e75b6&style=flat" alt="Maiko-Trindade" />
 
-<p align="center">
-  <a href="https://maikotrindade.com"><img src="https://streak-stats.demolab.com?user=maikotrindade&theme=holi-theme&hide_border=true&card_width=560" alt="GitHub Streak" /></a>
-</p>
+
